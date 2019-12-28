@@ -1,0 +1,8 @@
+{
+    "name": "ko/hello_world_action",
+    "autoload": {
+        "psr-4": {
+            "Gosign\\": "src/"
+        }
+    }
+}
